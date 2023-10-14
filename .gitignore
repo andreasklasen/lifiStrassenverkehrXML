@@ -1,1 +1,3 @@
 XSDValidate/.*
+XSDValidate/XSDSchemaValidierung/bin/*
+XSDValidate/XSDSchemaValidierung/obj/*
