@@ -1,0 +1,14 @@
+C:\Users\Andreas\OneDrive\CloudDesktop\Csharp_Spielplatz\HelloWorld\XSDSchemaValidierung\XSDSchemaValidierung\bin\Debug\net6.0\XSDSchemaValidierung.exe
+C:\Users\Andreas\OneDrive\CloudDesktop\Csharp_Spielplatz\HelloWorld\XSDSchemaValidierung\XSDSchemaValidierung\bin\Debug\net6.0\XSDSchemaValidierung.deps.json
+C:\Users\Andreas\OneDrive\CloudDesktop\Csharp_Spielplatz\HelloWorld\XSDSchemaValidierung\XSDSchemaValidierung\bin\Debug\net6.0\XSDSchemaValidierung.runtimeconfig.json
+C:\Users\Andreas\OneDrive\CloudDesktop\Csharp_Spielplatz\HelloWorld\XSDSchemaValidierung\XSDSchemaValidierung\bin\Debug\net6.0\XSDSchemaValidierung.dll
+C:\Users\Andreas\OneDrive\CloudDesktop\Csharp_Spielplatz\HelloWorld\XSDSchemaValidierung\XSDSchemaValidierung\bin\Debug\net6.0\XSDSchemaValidierung.pdb
+C:\Users\Andreas\OneDrive\CloudDesktop\Csharp_Spielplatz\HelloWorld\XSDSchemaValidierung\XSDSchemaValidierung\obj\Debug\net6.0\XSDSchemaValidierung.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andreas\OneDrive\CloudDesktop\Csharp_Spielplatz\HelloWorld\XSDSchemaValidierung\XSDSchemaValidierung\obj\Debug\net6.0\XSDSchemaValidierung.AssemblyInfoInputs.cache
+C:\Users\Andreas\OneDrive\CloudDesktop\Csharp_Spielplatz\HelloWorld\XSDSchemaValidierung\XSDSchemaValidierung\obj\Debug\net6.0\XSDSchemaValidierung.AssemblyInfo.cs
+C:\Users\Andreas\OneDrive\CloudDesktop\Csharp_Spielplatz\HelloWorld\XSDSchemaValidierung\XSDSchemaValidierung\obj\Debug\net6.0\XSDSchemaValidierung.csproj.CoreCompileInputs.cache
+C:\Users\Andreas\OneDrive\CloudDesktop\Csharp_Spielplatz\HelloWorld\XSDSchemaValidierung\XSDSchemaValidierung\obj\Debug\net6.0\XSDSchemaValidierung.dll
+C:\Users\Andreas\OneDrive\CloudDesktop\Csharp_Spielplatz\HelloWorld\XSDSchemaValidierung\XSDSchemaValidierung\obj\Debug\net6.0\refint\XSDSchemaValidierung.dll
+C:\Users\Andreas\OneDrive\CloudDesktop\Csharp_Spielplatz\HelloWorld\XSDSchemaValidierung\XSDSchemaValidierung\obj\Debug\net6.0\XSDSchemaValidierung.pdb
+C:\Users\Andreas\OneDrive\CloudDesktop\Csharp_Spielplatz\HelloWorld\XSDSchemaValidierung\XSDSchemaValidierung\obj\Debug\net6.0\XSDSchemaValidierung.genruntimeconfig.cache
+C:\Users\Andreas\OneDrive\CloudDesktop\Csharp_Spielplatz\HelloWorld\XSDSchemaValidierung\XSDSchemaValidierung\obj\Debug\net6.0\ref\XSDSchemaValidierung.dll
